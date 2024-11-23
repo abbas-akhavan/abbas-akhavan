@@ -1,4 +1,9 @@
 ## Hi there 👋
+## About Me
+I'm a passionate software developer specializing in full-stack development. 
+- 🌱 Currently learning: **AI and Machine Learning**
+- 💼 Working at: [Your Company](https://example.com)
+- ⚡ Fun fact: I love open-source and coffee! ☕
 
 <!--
 **abbas-akhavan/abbas-akhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
