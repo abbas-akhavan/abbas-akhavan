@@ -1,10 +1,10 @@
 # Hi there, I'm Abbas! 👋
 Welcome to my GitHub profile!
 
-## About Me
+## ℹ️ About Me
 I'm Abbas Akhavan , a front-end developer with a strong focus on creating responsive, user-friendly web interfaces. With experience in HTML, CSS, JavaScript, and modern frameworks like React and Next JS, as well as styling tools such as SASS and Tailwind CSS, I’m passionate about building intuitive and visually appealing user experiences. I’m always eager to learn new technologies and stay up-to-date with the latest industry trends to enhance my skills and contribute to impactful projects.
 
-## Skills & Tools
+## 💡 Skills & Tools
 ### Languages & Markup
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ I'm Abbas Akhavan , a front-end developer with a strong focus on creating respon
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Connect with Me
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas-akhavan)
 
 <!--
