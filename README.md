@@ -1,9 +1,6 @@
 ## Hi there 👋
 ## About Me
-I'm a passionate software developer specializing in full-stack development. 
-- 🌱 Currently learning: **AI and Machine Learning**
-- 💼 Working at: [Your Company](https://example.com)
-- ⚡ Fun fact: I love open-source and coffee! ☕
+I'm Abbas Akhavan , a front-end developer with a strong focus on creating responsive, user-friendly web interfaces. With experience in HTML, CSS, JavaScript, and modern frameworks like React and Next JS, as well as styling tools such as SASS and Tailwind CSS, I’m passionate about building intuitive and visually appealing user experiences. I’m always eager to learn new technologies and stay up-to-date with the latest industry trends to enhance my skills and contribute to impactful projects.
 
 ## Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +9,7 @@ I'm a passionate software developer specializing in full-stack development.
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abbas-akhavan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas-akhavan)
 
 <!--
 **abbas-akhavan/abbas-akhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
