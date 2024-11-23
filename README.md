@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Abbas! 👋
+Welcome to my GitHub profile!
+
 ## About Me
 I'm Abbas Akhavan , a front-end developer with a strong focus on creating responsive, user-friendly web interfaces. With experience in HTML, CSS, JavaScript, and modern frameworks like React and Next JS, as well as styling tools such as SASS and Tailwind CSS, I’m passionate about building intuitive and visually appealing user experiences. I’m always eager to learn new technologies and stay up-to-date with the latest industry trends to enhance my skills and contribute to impactful projects.
 
